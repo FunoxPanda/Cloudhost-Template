@@ -3,7 +3,7 @@
 
 Cloudhost is a template for hosting plateform. This repository is only the first 
 
-![alt text](https://github.com/[funoxpanda]/[Cloudhost-Template]/blob/[master]/preview.jpg?raw=true)
+![alt text](https://github.com/FunoxPanda/Cloudhost-Template/blob/master/preview.png?raw=true)
 
 ## FAQ
 
